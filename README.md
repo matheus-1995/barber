@@ -1,8 +1,8 @@
 # Aula 0
 
 - [x] Setup do banco
-- [] Seeding do banco (colocar dados no banco)
-- [] Introdução ao Nest.js
+- [x] Seeding do banco (colocar dados no banco)
+- [x] Introdução ao Nest.js
 - [] Tailwind e Shadcn
 - [] Git Hooks
 
