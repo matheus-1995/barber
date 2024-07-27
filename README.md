@@ -3,7 +3,7 @@
 - [x] Setup do banco
 - [x] Seeding do banco (colocar dados no banco)
 - [x] Introdução ao Nest.js
-- [] Tailwind e Shadcn
+- [x] Tailwind e Shadcn
 - [] Git Hooks
 
 
